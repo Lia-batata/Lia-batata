@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lia-batata
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lialimafigueira@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a artist too! Check out my art on instagram: @lia.art_batata
