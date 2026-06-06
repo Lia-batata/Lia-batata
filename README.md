@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Lia-batata
+## 👋 Hi, I’m Lia Batata
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me: lialimafigueira@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a artist too! Check out my art on instagram: @lia.art_batata
+##
 
 <!---
 Lia-batata/Lia-batata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
