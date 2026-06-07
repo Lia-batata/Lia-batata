@@ -3,6 +3,9 @@
 - 🌱 Atualmente estou melhorando as minhas habilidades.
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Meu sonho é criar jogos no futuro.
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lia-batata&color=8A2BE2&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL" />
+</div>
 <div>
   <a href="https://github.com/Lia-batata">
   <img height=200 aling=left src="https://github-readme-stats-two-jet-69.vercel.app/api?username=Lia-batata&show_icons=true&hide_border=true&locale=pt-pt&include_all_commits=true&theme=midnight-purple" src="https://github.com/Lia-batata/github-readme-stats"/>
@@ -27,7 +30,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/Lia-batata/Lia-batata/blob/output/github-snake-dark.svg" />
 </div>
 
