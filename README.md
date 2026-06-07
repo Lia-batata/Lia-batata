@@ -27,6 +27,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/Lia-batata/Lia-batata/blob/output/github-snake-dark.svg" />
+</div>
+
 
 <!---
 Lia-batata/Lia-batata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
