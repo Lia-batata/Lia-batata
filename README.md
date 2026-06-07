@@ -12,6 +12,7 @@
   <img height=200 align=left src="https://github-readme-stats-two-jet-69.vercel.app/api/top-langs?username=Lia-batata&show_icons=true&hide_border=true&locale=pt-pt&layout=donut&theme=midnight-purple" src="https://github.com/Lia-batata/github-readme-stats"/>
 </div>
 <br> 
+<h1>🗨️ Contatos e Redes:</h1>
 <div align="left">
   <a href="mailto:lialimafigueira@gmail.com">
     <img src="https://img.shields.io/badge/LIALIMAFIGUEIRA%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
