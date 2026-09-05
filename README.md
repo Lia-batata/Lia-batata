@@ -1,8 +1,8 @@
-## 👋 Ola, eu sou Lia Batata!
-- 👀 Disponível para novos trabalhos e projetos.
-- 🌱 Atualmente estou melhorando as minhas habilidades.
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Meu sonho é criar jogos no futuro.
+## 👋 Hi, I'm Lia Batata, welcome to my profile!
+- 👀 Available for new jobs and projects.
+- 🌱 Currently improving my skills.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My dream is to create games in the future.
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Lia-batata&color=8A2BE2&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL" />
 </div>
