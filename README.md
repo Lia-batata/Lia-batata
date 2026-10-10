@@ -8,7 +8,7 @@
 </div>
 <div>
   <a href="https://github.com/Lia-batata">
-  <img height=200 aling=left src="https://github-readme-stats-two-jet-69.vercel.app/api?username=Lia-batata&show_icons=true&hide_border=true&locale=pt-pt&include_all_commits=true&theme=midnight-purple" src="https://github.com/Lia-batata/github-readme-stats"/>
+  <img height=200 aling=left src="github-readme-stats-git-master-lia-lima-figueira-s-projects.vercel.app&show_icons=true&hide_border=true&locale=pt-pt&include_all_commits=true&theme=midnight-purple" src="https://github.com/Lia-batata/github-readme-stats"/>
   <img height=200 align=left src="https://github-readme-stats-two-jet-69.vercel.app/api/top-langs?username=Lia-batata&show_icons=true&hide_border=true&locale=pt-pt&layout=donut&theme=midnight-purple" src="https://github.com/Lia-batata/github-readme-stats"/>
 </div>
 <br> 
